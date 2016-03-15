@@ -1,0 +1,28 @@
+name: futuristgerd
+favicon: null
+layout_spectrum: 0.885868149343878
+typography_spectrum: 0.40063034533523023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.41343176434747875
+  lightness: 0.10223113326355815
+  saturation: 0.11560519901104271
+  rhythmicContrast: 0.3066866861190647
+purpose: []
