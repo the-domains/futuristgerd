@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[futuristgerd]]></title>
-        <description><![CDATA[futuristgerd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Futurist Gerd Leonhard's new AI-made site]]></title>
+        <description><![CDATA[Futurist Gerd Leonhard's new AI-made site]]></description>
+        <link>https://thegrid.ai/futuristgerd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:19:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 23:34:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/futuristgerd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is my key topic this year   </p>]]></description>
+            <link>https://thegrid.ai/futuristgerd/172131f7-9886-41ad-b9d4-fb0dd447e580/index.html</link>
+            <guid isPermaLink="false">172131f7-9886-41ad-b9d4-fb0dd447e580</guid>
+            <pubDate>Tue, 15 Mar 2016 23:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/300ea9c1-3386-4ab4-b008-b4857033c4ad.jpg">]]></description>
-            <link>undefinedthis-is-what-i-look-like/index.html</link>
+            <link>https://thegrid.ai/futuristgerd/this-is-what-i-look-like/index.html</link>
             <guid isPermaLink="false">fbb067eb-d0ad-4d39-a62e-143bbd07cc5c</guid>
             <pubDate>Tue, 15 Mar 2016 23:19:11 GMT</pubDate>
         </item>
