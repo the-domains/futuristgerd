@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Futurist Gerd Leonhard's new AI-made site]]></title>
-        <description><![CDATA[Futurist Gerd Leonhard's new AI-made site]]></description>
+        <title><![CDATA[Futurist Gerd Leonhard's intelligent grid]]></title>
+        <description><![CDATA[Futurist Gerd Leonhard's intelligent grid]]></description>
         <link>https://thegrid.ai/futuristgerd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 15:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 13:14:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/futuristgerd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Read Preview]]></title>
+            <description><![CDATA[<article><h1>Read Preview</h1><p>"Technology vs. Humanity is one of the last moral maps we'll get as humanity enters the Jurassic Park of Big Tech." Start reading and join this important conversation. How will humanity prevail in the face of rapid and all-encompassing technological change?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7186de9d1970fef7fd2ac137773d7fb/noop.jpg?input=http%3A%2F%2Fwww.techvshuman.com%2Fwp-content%2Fuploads%2F2016%2F06%2FGerd_illustrations_13_6_16-03-1024x643.jpg"></article>]]></description>
+            <link>http://www.techvshuman.com/read-preview/</link>
+            <guid isPermaLink="false">2530c993-c2ad-4d25-9315-4e6118cb1894</guid>
+            <pubDate>Wed, 03 Aug 2016 13:14:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a75a7b8-ae4d-45e6-9de7-a2d3173f1df5.jpg">]]></description>
