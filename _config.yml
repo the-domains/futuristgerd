@@ -19,11 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: FuturistSpeaker
+name: 'Futurist, Author, Keynote Speaker, Film Maker'
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: FuturistGerd main site
+    url: 'http://www.futuristgerd.com'
+    type: external
 favicon: null
 title: Futurist Gerd Leonhard's intelligent grid
 description: Embrace technology but don't become it
