@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Gerd Leonhard
+  email: gerd@thefuturesagency.com
+  url: www.futuristgerd.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dc17c43-06e1-4b5b-b3c6-03dbd2e0b98d.jpg
 name: 'Futurist, Author, Keynote Speaker, Film Maker'
 cta:
   domain: null
@@ -31,7 +37,8 @@ navigation:
   - name: Technology vs Humanity - Gerd's new book
     url: 'http://www.techvshuman.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2754363c-a950-4b08-9eb1-480ef9c60519.png
 title: Futurist Gerd Leonhard's intelligent grid
 description: Embrace technology but don't become it
 purpose: []
