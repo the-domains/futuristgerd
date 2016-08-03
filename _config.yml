@@ -28,6 +28,9 @@ navigation:
   - name: FuturistGerd main site
     url: 'http://www.futuristgerd.com'
     type: external
+  - name: Technology vs Humanity - Gerd's new book
+    url: 'http://www.techvshuman.com'
+    type: external
 favicon: null
 title: Futurist Gerd Leonhard's intelligent grid
 description: Embrace technology but don't become it
